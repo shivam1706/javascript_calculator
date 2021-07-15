@@ -1,0 +1,60 @@
+#container
+{
+    
+	text-align: center;
+    font-size: 35px;
+    
+}
+#calc-full
+{
+	text-align: center;
+	display: inline-block;
+	justify-content: space-around;
+	border-radius: 22px;
+	border: 6px solid darkorange;
+	border-spacing: 15px;
+	padding: 20px;
+	background-color: lightgreen;
+}
+#screen
+{
+	font-size: 35px;
+	width: 295px;
+	height: 50px;
+	border-radius: 4px;
+	padding: 10px;
+	border :4px solid darkred;
+}
+
+
+#key-table
+{
+     border: 4px solid red;
+   
+     border-radius: 4px;
+    
+}
+.table-class
+{
+	height: 45px;
+	width: auto;
+	background-color: darkred ;
+	border-radius: 3px;
+	padding: 4px;
+	color: yellow;
+
+}
+.btn
+{
+	padding: 12px;
+	margin: auto;
+	color: white;
+	height: 50px;
+	width: 75px;
+	font-size: 28px;
+	background-color: grey;
+	border: 2px solid orange;
+	border-radius: 16px;
+	font-family: bolder;
+
+}

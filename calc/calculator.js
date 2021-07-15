@@ -37,7 +37,7 @@ for(item of buttons)
         			{
         				screenvalue=Math.cos(screen.value);
         		   screen.value=screenvalue;
-
+                   
         			}
         			else
         			if(buttontext=='tan')
